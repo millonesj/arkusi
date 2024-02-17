@@ -1,0 +1,16 @@
+---
+title: 'Contacto'
+# subTitle: 'New York, <span class="text-[#6F6969]"> United States</span>'
+# address: 'No. 1002, Dahill Rd Str, Borough Park, NY 9982, USA'
+#contactNumberPath: 'tel:+070-3689-56-56-56'
+#contactNumber: '(+51) 950 761 942'
+contactNumberWhatsappPath: 'https://wa.me/51950761942'
+contactNumberWhatsapp: '(+51) 950 761 942'
+contactEmailPath: 'mailto:hola@arkusi.com'
+contactEmail: 'hola@arkusi.com'
+contactInstagramPath: 'https://www.instagram.com/arkusi.estudio'
+contactInstagram: 'arkusi.estudio'
+infoButtonText: 'Map Direction'
+formTitle: '¡Hola! ¿Listo para dar vida a tus espacios? Déjanos tus datos para asesorarte'
+formButton: 'Enviar mensaje'
+---
