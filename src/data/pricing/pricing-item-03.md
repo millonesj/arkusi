@@ -1,16 +1,23 @@
 ---
 id: 'pricing-item-03'
-monthlyPlan: 'Pro'
+monthlyPlan: 'Ponderoso'
 annualPlan: 'Basic'
-monthlyPrice: '$29'
+monthlyPrice: 'S/ 35*m2'
 annualPrice: '$24'
 icon: 'AiOutlineCheckCircle'
-monthlyExcerpt: Free with 14 days trial, then you can choose plan
+monthlyExcerpt: Es ideal para el cliente que desea el diseño de un departamento o una casa; ya que, es un paquete completo, ideal para varios espacios
 annualExcerpt: For the first year with 30-days money-back guarantee
 monthlyPricingList:
-    - 10 User
-    - 5 Dashboard
-    - 15 Projects
+    - Visita Técnica
+    - Asesoría de vegetación
+    - Moodboard y paleta de colores
+    - Diseño de Plano de districión
+    - Elevaciones y cortes
+    - Planos de detalles de mobiliario
+    - Plano de iluminarias
+    - 4 Vistas fotorrealista por espacio
+    - Lista de compras y proveedores
+    - Presupuesto de obra
 annualPricingList:
     - 20 Users
     - Unlimited Dashboard

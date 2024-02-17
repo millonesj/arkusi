@@ -25,21 +25,21 @@ function Footer() {
                             <div className="footer-widget-item">
                                 <h2 className="title">Contacto</h2>
                                 <ul className="contact-info mt-[25px]">
-                                    <li>
+                                    {/* <li>
                                         17 Princess Road, London, Greater
                                         London, NW18JR, Uk
-                                    </li>
+                                    </li> */}
                                     <li>
-                                        <Link href="mailto:hello@Rusticstudio.co">
+                                        <Link href="mailto:hola@arkusi.com">
                                             <a className="hover:text-black transition-all">
-                                                hello@Rusticstudio.co
+                                                hola@arkusi.com
                                             </a>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="tel:+0084-912-3548-073">
+                                        <Link href="tel:+51-950-761-942">
                                             <a className="hover:text-black transition-all">
-                                                (+0084) 912-3548-073
+                                                (+51) 950 761 942
                                             </a>
                                         </Link>
                                     </li>

@@ -1,19 +1,23 @@
 ---
 id: 'pricing-item-01'
-monthlyPlan: 'Basic'
+monthlyPlan: 'Ligerito'
 annualPlan: 'Pro'
-monthlyPrice: '$17'
-annualPrice: '$99'
+monthlyPrice: 'S/ 380'
+# annualPrice: '$99'
 icon: 'AiOutlineCheckCircle'
-monthlyExcerpt: Free with 14 days trial, then you can choose plan
+monthlyExcerpt: Es ideal para personas que quieren tener una idea clara de un espacio
 annualExcerpt: For the first year with 30-days money-back guarantee
 monthlyPricingList:
-    - 1 User
-    - 1 Dashboard
-    - 5 Projects
-annualPricingList:
-    - 20 Users
-    - Unlimited Dashboard
-    - 50 Projects
-    - Custome CSS + HTML
+    - Moodboard y paleta de colores
+    - Diseño de Plando de distribución
+    - Elevaciones y cortes
+    - Detalle de mobiliarios
+    - Plano de iluminarias
+    - 4 Vistas fotorrealistas
+    - Presupuesto de obra
+# annualPricingList:
+#     - 20 Users
+#     - Unlimited Dashboard
+#     - 50 Projects
+#     - Custome CSS + HTML
 ---

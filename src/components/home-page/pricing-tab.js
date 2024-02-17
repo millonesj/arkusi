@@ -14,7 +14,7 @@ function PricingTab({ pricingItems }) {
             <div className="container">
                 <div className="pb-[20px]">
                     <h2 className="lm:text-[42px] lm:leading-[50px] text-[32px] text-center">
-                        Start Your Dream With An Affordable
+                        Inicia tu sueño con nuestros paquetes a tu alcance
                     </h2>
                 </div>
                 <ul className="pricing-tab flex justify-center max-sm:flex-wrap pb-[65px]">
