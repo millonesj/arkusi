@@ -79,14 +79,14 @@ function ContactForm({ contactItems }) {
                             </li>
                         </ul>
                         <div className="button-wrap pt-[95px]">
-                            <Link href="/contacto">
+                            {/* <Link href="/contacto">
                                 <a className="inline-flex items-center text-[14px] leading-[30px] p-[11px_32px] transition duration-[0.4s] border border-[#969696] uppercase hover:border-black hover:bg-black hover:text-white">
                                     {contactItems[0]?.infoButtonText}
                                     <div className="ml-[5px]">
                                         <AiOutlineRight />
                                     </div>
                                 </a>
-                            </Link>
+                            </Link> */}
                         </div>
                     </div>
                     <div className="contact-form lg:col-span-3 max-md:pt-[50px]">

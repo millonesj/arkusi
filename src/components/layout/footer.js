@@ -123,14 +123,14 @@ function Footer() {
                             <div className="md:col-span-4 max-lm:order-last max-lm:pt-[10px]">
                                 <div className="copyright flex-wrap md:justify-start justify-center md:mb-0 mb-[10px]">
                                     © {currentYear}
-                                    <span className="mx-1">RUSTIC</span>
+                                    <span className="mx-1">ARKUSI</span>
                                     Made with © by
                                     <div className="text-[#f53400] mx-1">
                                         <AiIcons.AiFillHeart />
                                     </div>
                                     <Link href="https://themeforest.net/user/codecarnival/portfolio">
                                         <a target="_blank">
-                                            <span> CodeCarnival</span>
+                                            <span> Intitron</span>
                                         </a>
                                     </Link>
                                 </div>

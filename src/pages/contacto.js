@@ -13,7 +13,7 @@ function ContactPage({ contactItems }) {
                 <meta name="description" content="Send us your messages!" />
             </Head>
             <HeaderTwo />
-            <GoogleMap />
+            {/* <GoogleMap /> */}
             <ContactForm contactItems={contactItems} />
         </>
     );
