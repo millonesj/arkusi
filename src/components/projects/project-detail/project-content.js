@@ -63,7 +63,7 @@ function ProjectContent({ project }) {
                 <div className="container">
                     <div className="content">
                         <h2 className="text-[36px] leading-[58px] pb-10">
-                            Descripción
+                            {project.subTitle}
                         </h2>
                         <div
                             className="text-[18px] leading-8 text-secondary"

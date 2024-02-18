@@ -44,11 +44,11 @@ function AllProjects({ projects: initialProject }) {
                     </button>
                     <button
                         className={`${
-                            currentFilter === 'commercial' ? 'active' : ''
+                            currentFilter === 'comercial' ? 'active' : ''
                         } ml-10`}
                         type="button"
                         onClick={onFilterHandler}
-                        data-filter="commercial"
+                        data-filter="comercial"
                     >
                         Comercial
                     </button>

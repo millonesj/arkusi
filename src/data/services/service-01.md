@@ -1,6 +1,6 @@
 ---
-title: 'Residential'
+title: 'Residencial'
 icon: 'AiOutlineHome'
 ---
 
-We provide all materials, labor, equip ensure a safe and secure
+Transformaremos tu vivienda en un refugio único, combinando funcionalidad, estética y confort. Crearemos juntos, un hogar que te inspire y te haga sentir feliz.

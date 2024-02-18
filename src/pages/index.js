@@ -34,7 +34,7 @@ function HomePage({
             <Services services={services} />
             <LatestProject projects={projects} />
             <About />
-            <PricingTab pricingItems={pricingItems} />
+            {/* <PricingTab pricingItems={pricingItems} /> */}
             <Testimonial
                 testimonialItems={testimonialItems}
                 testimonialTitle="+1,250 Happy Clients"

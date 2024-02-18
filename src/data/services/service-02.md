@@ -1,6 +1,7 @@
 ---
-title: 'Commercial'
+title: 'Comercial'
 icon: 'AiOutlineShoppingCart'
 ---
 
-We provide all materials, labor, equip ensure a safe and secure
+¿Te imaginas un local comercial que sea más que un simple espacio de venta?
+Un lugar que atraiga a los clientes, transmita la esencia de tu marca y les ofrezca una experiencia de compra única e inolvidable. Eso es lo que podemos lograr con nuestro proyecto de interiorismo comercial.
