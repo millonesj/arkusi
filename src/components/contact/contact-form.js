@@ -23,7 +23,7 @@ function ContactForm({ contactItems }) {
                             <li className="pb-[15px] max-w-[270px]">
                                 {contactItems[0]?.address}
                             </li>
-                            <li className="pb-[15px]">
+                            <li>
                                 <Link
                                     href={`${contactItems[0]?.contactNumberWhatsappPath}`}
                                 >
@@ -32,7 +32,7 @@ function ContactForm({ contactItems }) {
                                             <div className="flex items-center pr-2">
                                                 <FaWhatsapp />
                                             </div>
-                                            <div className="flex items-center">
+                                            <div className="flex items-center underline">
                                                 {
                                                     contactItems[0]
                                                         ?.contactNumberWhatsapp
@@ -51,7 +51,7 @@ function ContactForm({ contactItems }) {
                                             <div className="flex items-center pr-2">
                                                 <MdOutlineEmail />
                                             </div>
-                                            <div className="flex items-center">
+                                            <div className="flex items-center underline">
                                                 {contactItems[0]?.contactEmail}
                                             </div>
                                         </div>
@@ -67,7 +67,7 @@ function ContactForm({ contactItems }) {
                                             <div className="flex items-center pr-2">
                                                 <FaInstagram />
                                             </div>
-                                            <div className="flex items-center">
+                                            <div className="flex items-center underline">
                                                 {
                                                     contactItems[0]
                                                         ?.contactInstagram
