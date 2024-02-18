@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import Link from 'next/link';
 import Image from 'next/image';
-import * as AiIcons from 'react-icons/ai';
+import * as AiIcons from 'react-icons/lia';
 
 function Services({ services }) {
     return (
@@ -11,10 +11,10 @@ function Services({ services }) {
                     <div className="lg:col-span-6 xl:mr-[140px] lg:mr-[40px] max-md:pt-[50px]">
                         <div className="service-content xl:w-[490px] w-full ml-auto">
                             <span className="sub-title text-secondary text-[18px] leading-[32px] uppercase mb-[25px] block">
-                                Services
+                                Servicios
                             </span>
                             <h2 className="title text-black lm:text-[42px] lm:leading-[50px] text-[32px] mb-[60px]">
-                                Best solutions for <br /> your dream.
+                                Soluciones de acuerdo <br /> a tu proyecto.
                             </h2>
                             <div className="fixed-md:grid fixed-md:grid-cols-2 grid max-md:gap-[25px]">
                                 {services?.map((service) => {

@@ -1,6 +1,6 @@
 ---
 title: 'Airbnb'
-icon: 'AiOutlineReload'
+icon: 'LiaAirbnb'
 ---
 
 ¿Quieres que tu Airbnb destaque entre la competencia y atraiga a los mejores huéspedes?  

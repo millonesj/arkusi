@@ -137,11 +137,11 @@ function Footer() {
                             </div>
                             <div className="md:col-span-6">
                                 <ul className="footer-social-link md:mb-0 mb-[10px]">
-                                    <li>
+                                    {/* <li>
                                         <Link href="https://twitter.com/">
                                             <a>Twitter</a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href="https://facebook.com/">
                                             <a>Facebook</a>
@@ -152,16 +152,16 @@ function Footer() {
                                             <a>Instagram</a>
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href="https://tumblr.com/">
                                             <a>Tumblr</a>
                                         </Link>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <Link href="https://pinterest.com/">
                                             <a>Pinterest</a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                             <div className="md:col-span-2">

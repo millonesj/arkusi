@@ -29,9 +29,8 @@ Elementos clave del proyecto:<br/>
 
 Resultado:<br/>
 
-El dormitorio se ha convertido en un espacio acogedor y cálido donde la niña puede descansar, jugar y soñar. Es un refugio personal que refleja su personalidad y sus gustos.<br/><br/>****
+El dormitorio se ha convertido en un espacio acogedor y cálido donde la niña puede descansar, jugar y soñar. Es un refugio personal que refleja su personalidad y sus gustos.<br/><br/>
 
-¿Te gustaría crear un espacio similar para tu hija o hijo?
-'
+¿Te gustaría crear un espacio similar para tu hija o hijo?'
 isFeatured: true
 ---

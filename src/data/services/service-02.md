@@ -1,6 +1,6 @@
 ---
 title: 'Comercial'
-icon: 'AiOutlineShoppingCart'
+icon: 'LiaShoppingCartSolid'
 ---
 
 ¿Te imaginas un local comercial que sea más que un simple espacio de venta?
