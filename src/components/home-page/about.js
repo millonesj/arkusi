@@ -11,7 +11,7 @@ function About() {
             <div className="container max-lg:max-w-full fixed-lg:pr-0">
                 <div className="lg:grid lg:grid-cols-2 max-md:flex max-md:flex-col-reverse">
                     <div className="about-content max-md:pt-10">
-                        <span className={subTitle}>About</span>
+                        <span className={subTitle}>Sobre nosotros</span>
                         <h2 className={title}>
                             Dedicados a la arquitectura y diseño de interiores,
                         </h2>
