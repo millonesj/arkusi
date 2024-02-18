@@ -31,7 +31,7 @@ function Services({ services }) {
                                                     </div>
                                                     <div className="content">
                                                         <h3 className="title">
-                                                            <Link href="/projectos">
+                                                            <Link href="/proyectos">
                                                                 <a className="hover:underline">
                                                                     {
                                                                         service?.title

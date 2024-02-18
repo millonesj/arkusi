@@ -34,13 +34,13 @@ function AllProjects({ projects: initialProject }) {
                     </button>
                     <button
                         className={`${
-                            currentFilter === 'residenital' ? 'active' : ''
+                            currentFilter === 'residencial' ? 'active' : ''
                         } ml-10`}
                         type="button"
                         onClick={onFilterHandler}
-                        data-filter="residenital"
+                        data-filter="residencial"
                     >
-                        Residenital
+                        Residencial
                     </button>
                     <button
                         className={`${
@@ -50,7 +50,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="commercial"
                     >
-                        Commercial
+                        Comercial
                     </button>
                     <button
                         className={`${
@@ -60,7 +60,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="suitanable-space"
                     >
-                        Suitantable Space
+                        Airbnb
                     </button>
                 </div>
             </div>

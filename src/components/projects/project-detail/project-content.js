@@ -18,41 +18,41 @@ function ProjectContent({ project }) {
             <div className="project-upper-box md:pt-[150px] pt-[55px]">
                 <div className="container">
                     <div className="navigation pb-[50px]">
-                        <Link href="/projectos">
+                        <Link href="/proyectos">
                             <a className="flex items-center text-[14px] leading-6 uppercase">
                                 <IoMdGrid className="text-[20px] mr-5" />
-                                Back to Projects
+                                Volver a proyectos
                             </a>
                         </Link>
                     </div>
                     <ul className="info grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-3">
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
-                                Location:
+                                Localización:
                             </span>
                             {project?.location}
                         </li>
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
-                                Client:
+                                Cliente:
                             </span>
                             {project?.clientName}
                         </li>
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
-                                Completed:
+                                Terminado:
                             </span>
                             {project.completedDate}
                         </li>
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
-                                Architect:
+                                Arquitecto:
                             </span>
                             {project.architectName}
                         </li>
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
-                                Area:
+                                Área:
                             </span>
                             {project.squareUnits}
                         </li>
@@ -63,7 +63,7 @@ function ProjectContent({ project }) {
                 <div className="container">
                     <div className="content">
                         <h2 className="text-[36px] leading-[58px] pb-10">
-                            Description
+                            Descripción
                         </h2>
                         <div
                             className="text-[18px] leading-8 text-secondary"

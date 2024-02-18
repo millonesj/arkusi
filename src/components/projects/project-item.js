@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function ProjectItem({ project }) {
     const imagePath = `/images/projects/${project?.slug}/${project?.image}`;
-    const linkPath = `/projects/${project?.slug}`;
+    const linkPath = `/proyectos/${project?.slug}`;
 
     return (
         <div className={`project-item gallery-item group ${project?.category}`}>

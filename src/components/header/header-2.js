@@ -72,12 +72,12 @@ function HeaderTwo() {
                                     </li>
                                     <li
                                         className={
-                                            router.pathname === '/projectos'
+                                            router.pathname === '/proyectos'
                                                 ? 'active'
                                                 : ''
                                         }
                                     >
-                                        <Link href="/projectos">
+                                        <Link href="/proyectos">
                                             <a>
                                                 <span>Projectos</span>
                                             </a>

@@ -13,8 +13,8 @@ export const OffcanvasData = [
     },
     {
         id: 'menu-03',
-        title: 'Projects',
-        path: '/projectos',
+        title: 'Proyectos',
+        path: '/proyectos',
         cName: 'offcanvas-text',
     },
     {
