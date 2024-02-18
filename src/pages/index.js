@@ -26,8 +26,27 @@ function HomePage({
                 <title>Arkusi - Arquitectura y Diseño de interiores</title>
                 <meta
                     name="description"
-                    content="Arkusi Estudio - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
+                    content="Arkusi - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
                 />
+                <meta
+                    name="title"
+                    content="Estudio Arkusi - Exploramos tu mundo, creamos tus sueños"
+                />
+                <meta
+                    name="keywords"
+                    content="Arkusi, estudio, arquitectura, interiorismo, diseño, creación de sueños, exploración de espacios"
+                />
+                <meta name="author" content="Arkusi Estudio"/>
+
+                <meta
+                    property="og:title"
+                    content="Arkusi - Exploramos tu mundo, creamos tus sueños"
+                />
+                <meta
+                    property="og:description"
+                    content="Arkusi - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
+                />
+                <meta property="og:url" content="http://www.arkusi.com"/>
             </Head>
             <HeaderOne />
             <Hero heroItems={heroItems} />
