@@ -142,13 +142,18 @@ function Footer() {
                                             <a>Twitter</a>
                                         </Link>
                                     </li> */}
-                                    <li>
+                                    {/* <li>
                                         <Link href="https://facebook.com/">
                                             <a>Facebook</a>
                                         </Link>
+                                    </li> */}
+                                    <li>
+                                        <Link href="https://wa.me/51950761942">
+                                            <a>Whatsapp</a>
+                                        </Link>
                                     </li>
                                     <li>
-                                        <Link href="https://instagram.com/">
+                                        <Link href="https://www.instagram.com/arkusi.estudio">
                                             <a>Instagram</a>
                                         </Link>
                                     </li>
@@ -167,18 +172,18 @@ function Footer() {
                             <div className="md:col-span-2">
                                 <ul className="footer-language flex md:justify-end justify-center">
                                     <li className="mr-8">
-                                        <Link href="/about">
+                                        {/* <Link href="/about">
+                                            <a className="text-[#30373E] text-[14px] leading-6 uppercase transition-all hover:text-[#263a4f]">
+                                                Es
+                                            </a>
+                                        </Link> */}
+                                    </li>
+                                    <li>
+                                        {/* <Link href="/about">
                                             <a className="text-[#30373E] text-[14px] leading-6 uppercase transition-all hover:text-[#263a4f]">
                                                 Eng
                                             </a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/about">
-                                            <a className="text-[#30373E] text-[14px] leading-6 uppercase transition-all hover:text-[#263a4f]">
-                                                Fre
-                                            </a>
-                                        </Link>
+                                        </Link> */}
                                     </li>
                                 </ul>
                             </div>
