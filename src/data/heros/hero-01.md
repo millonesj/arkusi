@@ -8,5 +8,5 @@ facebookIcon: 'FaFacebookF'
 googleIcon: 'FaGoogle'
 heroCategory: Arkusi <br /> Arquitectura e Interiorismo
 heroTitle: ¡Exploramos tu mundo <br /> creamos tu sueño!
-heroContactInfo: contact@Rustictudio.co
+heroContactInfo: hola@arkusi.com
 ---
