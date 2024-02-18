@@ -30,7 +30,7 @@ function About() {
                             únicos, estamos emocionados de trabajar contigo
                             convertir tus ideas en realidad.
                             <br />
-                            ¡Vamos a construir algo increíble juntos!
+                            ¡Construyamos algo increíble juntos!
                         </p>
                         <Link href="/about">
                             <a className="boxed-btn text-[18px] leading-[30px]">

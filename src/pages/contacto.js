@@ -10,7 +10,7 @@ function ContactPage({ contactItems }) {
         <>
             <Head>
                 <title>Contáctanos</title>
-                <meta name="description" content="Send us your messages!" />
+                <meta name="description" content="Envianos tu mensaje!" />
             </Head>
             <HeaderTwo />
             {/* <GoogleMap /> */}
