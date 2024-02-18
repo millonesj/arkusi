@@ -46,7 +46,7 @@ function HeroOne({ heroItems, settings }) {
                                             <span>{heroItem?.heroYear}</span>
                                             <ul className="social-box mb-[-140px]">
                                                 <li className="mb-[25px]">
-                                                    <Link href="https://example.com/">
+                                                    <Link href="#">
                                                         <a
                                                             target="_blank"
                                                             aria-label="Twitter"
@@ -56,7 +56,7 @@ function HeroOne({ heroItems, settings }) {
                                                     </Link>
                                                 </li>
                                                 <li className="mb-[25px]">
-                                                    <Link href="https://example.com/">
+                                                    <Link href="#">
                                                         <a
                                                             target="_blank"
                                                             aria-label="Facebook"
@@ -66,7 +66,7 @@ function HeroOne({ heroItems, settings }) {
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href="https://example.com/">
+                                                    <Link href="#">
                                                         <a
                                                             target="_blank"
                                                             aria-label="Google"

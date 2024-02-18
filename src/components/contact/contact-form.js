@@ -90,7 +90,7 @@ function ContactForm({ contactItems }) {
                         </div>
                     </div>
                     <div className="contact-form lg:col-span-3 max-md:pt-[50px]">
-                        <h2 className="text-[18px] leading-[22px] uppercase md:mb-[75px] mb-[35px]">
+                        <h2 className="text-[18px] leading-[22px] md:mb-[75px] mb-[35px]">
                             {contactItems[0]?.formTitle}
                         </h2>
                         <form>

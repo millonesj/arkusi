@@ -16,7 +16,7 @@ function allItemsPage({ projects }) {
                 />
             </Head>
             <HeaderTwo />
-            <Breadcrumb activePage="Projectos" pageTitle="Nuestros proyectos" />
+            <Breadcrumb activePage="Proyectos" pageTitle="Nuestros proyectos" />
             <AllProjects projects={projects} />
         </>
     );

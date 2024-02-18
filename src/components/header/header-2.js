@@ -79,7 +79,7 @@ function HeaderTwo() {
                                     >
                                         <Link href="/proyectos">
                                             <a>
-                                                <span>Projectos</span>
+                                                <span>Proyectos</span>
                                             </a>
                                         </Link>
                                     </li>
