@@ -32,7 +32,7 @@ function About() {
                             <br />
                             ¡Construyamos algo increíble juntos!
                         </p>
-                        <Link href="/about">
+                        <Link href="/nosotros">
                             <a className="boxed-btn text-[18px] leading-[30px]">
                                 Descubre quiénes somos
                             </a>
