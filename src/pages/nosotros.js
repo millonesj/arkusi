@@ -18,9 +18,9 @@ function AboutPage({ services, testimonialItems, brandItems, teamItems }) {
             <HeaderOne />
             <PageBanner />
             <About />
-            <Services services={services} />
-            <Testimonial testimonialItems={testimonialItems} />
-            <Brand brandItems={brandItems} />
+            {/* <Services services={services} /> */}
+            {/* <Testimonial testimonialItems={testimonialItems} /> */}
+            {/* <Brand brandItems={brandItems} /> */}
             <Team teamItems={teamItems} />
         </>
     );

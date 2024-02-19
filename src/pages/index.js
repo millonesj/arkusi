@@ -54,12 +54,12 @@ function HomePage({
             <LatestProject projects={projects} />
             <About />
             {/* <PricingTab pricingItems={pricingItems} /> */}
-            <Testimonial
+            {/* <Testimonial
                 testimonialItems={testimonialItems}
                 testimonialTitle="+1,250 Happy Clients"
-            />
-            <Brand brandItems={brandItems} />
-            <FeaturedPost posts={posts} />
+            /> */}
+            {/* <Brand brandItems={brandItems} /> */}
+            {/* <FeaturedPost posts={posts} /> */}
         </>
     );
 }
