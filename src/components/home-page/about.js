@@ -40,7 +40,7 @@ function About() {
                     </div>
                     <div className={aboutImage}>
                         <Image
-                            src="/images/about/1.jpg"
+                            src="/images/about/nosotros.png"
                             alt="Service Image"
                             width={390}
                             height={760}
