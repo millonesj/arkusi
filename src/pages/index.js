@@ -34,7 +34,7 @@ function HomePage({
                 />
                 <meta
                     name="keywords"
-                    content="Arkusi, estudio, arquitectura, interiorismo, diseño, creación de sueños, exploración de espacios"
+                    content="Arkusi estudio, arquitectura, interiorismo, diseño de interiores, diseño de oficinas, ambientación de espacios, decoración de interiores, interiorismo residencial, interiorismo comercial"
                 />
                 <meta name="author" content="Arkusi Estudio"/>
 
