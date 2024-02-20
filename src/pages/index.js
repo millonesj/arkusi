@@ -26,11 +26,11 @@ function HomePage({
                 <title>Arkusi - Arquitectura y Diseño de interiores</title>
                 <meta
                     name="description"
-                    content="Arkusi - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
+                    content="Arkusi Estudio - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
                 />
                 <meta
                     name="title"
-                    content="Estudio Arkusi - Exploramos tu mundo, creamos tus sueños"
+                    content="Arkusi Estudio - Exploramos tu mundo, creamos tus sueños"
                 />
                 <meta
                     name="keywords"
@@ -40,11 +40,11 @@ function HomePage({
 
                 <meta
                     property="og:title"
-                    content="Arkusi - Exploramos tu mundo, creamos tus sueños"
+                    content="Arkusi Estudio - Exploramos tu mundo, creamos tus sueños"
                 />
                 <meta
                     property="og:description"
-                    content="Arkusi - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
+                    content="Arkusi Estudio - Expertos en arquitectura e interiorismo. ¡Exploramos tu mundo, creamos tus sueños! Descubre nuestras creaciones inspiradoras."
                 />
                 <meta property="og:url" content="http://www.arkusi.com"/>
             </Head>
