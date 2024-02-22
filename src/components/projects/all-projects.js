@@ -54,11 +54,11 @@ function AllProjects({ projects: initialProject }) {
                     </button>
                     <button
                         className={`${
-                            currentFilter === 'suitanable-space' ? 'active' : ''
+                            currentFilter === 'airbnb' ? 'active' : ''
                         } sm:ml-10 fixed-xs:mt-[10px]`}
                         type="button"
                         onClick={onFilterHandler}
-                        data-filter="suitanable-space"
+                        data-filter="airbnb"
                     >
                         Airbnb
                     </button>
