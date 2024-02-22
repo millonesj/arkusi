@@ -27,7 +27,7 @@ function About() {
                             soluciones únicas y originales en el diseño de
                             interiores y arquitectura. Desde el diseño de tu
                             hogar hasta la creación de espacios comerciales
-                            únicos, estamos emocionados de trabajar contigo
+                            únicos, estamos emocionados de trabajar contigo y
                             convertir tus ideas en realidad.
                             <br />
                             ¡Construyamos algo increíble juntos!
