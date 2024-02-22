@@ -1,7 +1,7 @@
 ---
 title: 'Inspired From China In Web Design update'
 date: '2022-01-02'
-image: inspired.jpg
+image: centro-de-tv.png
 descriptionImg: 'single-image.jpg'
 isFeatured: true
 category:
