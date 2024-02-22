@@ -39,7 +39,7 @@ function Team({ teamItems }) {
                                             </a>
                                         </Link>
                                         <div className="team-social-wrap duration-500 absolute bottom-[15px] right-[-175px] z-[1] group-hover:right-[20px]">
-                                            <ul className="team-social flex bg-white p-[15px] rounded-[2px] text-[#999999]">
+                                            {/* <ul className="team-social flex bg-white p-[15px] rounded-[2px] text-[#999999]">
                                                 <li className="duration-300 hover:text-black mr-[20px]">
                                                     <Link href="https://twitter.com/">
                                                         <a target="_blank">
@@ -68,20 +68,23 @@ function Team({ teamItems }) {
                                                         </a>
                                                     </Link>
                                                 </li>
-                                            </ul>
+                                            </ul> */}
                                         </div>
                                     </div>
                                     <div className="team-member-content pt-[25px]">
+                                        <span className="designation text-secondary leading-6 block text-[14px] mt-[5px]">
+                                            {teamItem?.designation}
+                                        </span>
                                         <h3>
                                             <Link href="/nosotros">
                                                 <a className="transition-all hover:text-[#caac6b] text-[24px] leading-[31px]">
                                                     {teamItem?.memberName}
                                                 </a>
                                             </Link>
-                                        </h3>
-                                        <span className="designation text-secondary leading-6 block text-[14px] mt-[5px]">
-                                            {teamItem?.designation}
-                                        </span>
+                                        </h3><br/>
+                                        <p className="text-secondary text-[14px] text-justify">
+                                            {teamItem?.description}
+                                        </p>
                                     </div>
                                 </div>
                             </div>
