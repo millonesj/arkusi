@@ -55,7 +55,7 @@ function AllProjects({ projects: initialProject }) {
                     <button
                         className={`${
                             currentFilter === 'airbnb' ? 'active' : ''
-                        } sm:ml-10 fixed-xs:mt-[10px]`}
+                        } ml-10 fixed-xs:mt-[10px]`}
                         type="button"
                         onClick={onFilterHandler}
                         data-filter="airbnb"
