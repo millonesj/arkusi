@@ -22,13 +22,13 @@ function PostContent({ post, categories, tags }) {
                             <div
                                 className="text-secondary leading-[27px] mb-[15px]"
                                 dangerouslySetInnerHTML={{
-                                    __html: post.postAdditionalDesc,
+                                    __html: post.postDesc,
                                 }}
                             />
                             <div
                                 className="text-secondary leading-[27px] max-w-[680px]"
                                 dangerouslySetInnerHTML={{
-                                    __html: post.postDesc,
+                                    __html: post.postAdditionalDesc,
                                 }}
                             />
                             <div className="single-item pt-[50px]">
