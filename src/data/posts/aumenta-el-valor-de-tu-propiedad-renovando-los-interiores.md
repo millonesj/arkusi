@@ -53,7 +53,8 @@ icon: 'FaQuoteLeft'
 blockquoteText: Potencia el atractivo de tu propiedad con renovaciones y diseño que realzan su valor.
 postExcerpt: '¡No esperes más para empezar a mejorar tu inversión!'
 postTags:
-    - structure
-    - envato
-    - premium
+    - renovación
+    - propiedad
+    - valor
+    - diseño
 ---
