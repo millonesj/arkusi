@@ -11,6 +11,19 @@ completedDate: Agosto 2023
 architectName: Angie Torres
 squareUnits: 15 m2
 subTitle: 'Oficina Mendez'
-additionDesc: Edden’s Villa Is An International Project Located In Costa Rica. It Has Various Different Levels, Whom Are Embedded Into The Unevenness Of The Terrain. This Project Seeks To Integrate Passive Strategies For Energy Saving, Such As The Inclusion Of As Much Natural Light As Possible As Well As Having Green Roofs With Lots Of Vegetation In Them. <br/> The Geometry Of This House Combines Design With Nature Into The Structure Of The House, Which Makes It Unique Amongst Other Neighboring Places.
+additionDesc: 'Esta oficina es un espacio funcional, estético y confortable que refleja la personalidad de la usuaria.<br/><br/>
+
+Diseño:<br/>
+
+Funcionalidad: La oficina está diseñada para un uso diario, con un escritorio inteligente regulable de metal y madera y una silla ergonómica en cuero negro.
+Estética: Las molduras aportan belleza, estilo, elegancia y nostalgia. La oficina está iluminada por una gran mampara y cuenta con un gran mueble de repisas de madera y metal negro.<br/>
+Confort: En la esquina se sitúa un gran sillón para crear un espacio de relajación.<br/><br/>
+
+Atmósfera:<br/>
+
+Moderna: El diseño del escritorio, la silla y el mueble de repisas son modernos y funcionales.
+Acogedora: Las molduras, la luz natural y el sillón crean una atmósfera acogedora.
+Elegante: La combinación de materiales y colores crea una atmósfera elegante.
+Personalizada: La oficina refleja la personalidad de la usuaria con la elección de colores, materiales y decoración.'
 isFeatured: true
 ---
