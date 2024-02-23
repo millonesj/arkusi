@@ -18,7 +18,7 @@ function PostDetailPage(props) {
             </Head>
             <HeaderOne />
             <PostContent post={post} categories={categories} tags={tags} />
-            <DisqusForm />
+            {/* <DisqusForm /> */}
             <PostPageNavigation prevPost={prevPost} nextPost={nextPost} />
         </>
     );
