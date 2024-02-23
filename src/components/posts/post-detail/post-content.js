@@ -19,12 +19,18 @@ function PostContent({ post, categories, tags }) {
                             <h2 className="font-bold text-[24px] leading-[36px] max-w-[710px] mb-[20px]">
                                 {post.postTitle}
                             </h2>
-                            <p className="text-secondary leading-[27px] mb-[15px]">
-                                {post.postDesc}
-                            </p>
-                            <p className="text-secondary leading-[27px] max-w-[680px]">
-                                {post.postAdditionalDesc}
-                            </p>
+                            <div
+                                className="text-secondary leading-[27px] mb-[15px]"
+                                dangerouslySetInnerHTML={{
+                                    __html: post.postAdditionalDesc,
+                                }}
+                            />
+                            <div
+                                className="text-secondary leading-[27px] max-w-[680px]"
+                                dangerouslySetInnerHTML={{
+                                    __html: post.postDesc,
+                                }}
+                            />
                             <div className="single-item pt-[50px]">
                                 <div className="image">
                                     <Image
