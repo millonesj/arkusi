@@ -7,6 +7,6 @@ twitterIcon: 'FaTwitter'
 facebookIcon: 'FaFacebookF'
 googleIcon: 'FaGoogle'
 heroCategory: Arkusi <br /> Arquitectura e Interiorismo
-heroTitle: ¡Exploramos tu mundo <br /> creamos tu sueño!
+heroTitle: ¡Exploramos tu mundo <br /> creamos tus sueños!
 heroContactInfo: hola@arkusi.com
 ---
