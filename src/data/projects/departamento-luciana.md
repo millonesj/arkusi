@@ -3,7 +3,7 @@ title: 'Departamento Luciana'
 category: 'residencial'
 date: '2023-02-05'
 image: departamento-luciana.jpg
-descriptionImg: '1.jpg'
+descriptionImg: 'departamento-luciana-descripcion.jpg'
 excerpt: Residencial
 location: Magdalena del Mar
 clientName: Familia Canales

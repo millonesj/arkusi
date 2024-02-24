@@ -3,7 +3,7 @@ title: 'Casa de campo Santa Eulalia'
 category: 'residencial'
 date: '2022-08-16'
 image: santa-eulalia.jpg
-descriptionImg: '1.jpg'
+descriptionImg: 'santa-eulalia-descripcion.png'
 excerpt: Residencial
 location: Santa Eulalia
 clientName: Familia Arce

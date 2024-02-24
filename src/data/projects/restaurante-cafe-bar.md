@@ -1,17 +1,17 @@
 ---
-title: 'Restaurante Aguki'
+title: 'Restaurante Café Bar'
 category: 'comercial'
 date: '2022-12-01'
-image: restaurante-aguki.jpg
-descriptionImg: '1.jpg'
+image: 'restaurante-cafe-bar.jpg'
+descriptionImg: 'restaurante-cafe-bar-descripcion.png'
 excerpt: Comercial
 location: Huacho
-clientName: Restaurante - Bar Aguki
+clientName: Restaurante Café Bar
 completedDate: Enero 2023
 architectName: Angie Torres
 squareUnits: '257 m2'
 subTitle: 'Un oasis urbano con estilo'
-additionDesc: 'El proyecto de interiorismo del Restaurante AGUKI fusiona a la perfección la estética industrial con un ambiente fresco y moderno, creando un espacio único y vibrante.<br/>
+additionDesc: 'El proyecto de interiorismo del Restaurante Café Bar fusiona a la perfección la estética industrial con un ambiente fresco y moderno, creando un espacio único y vibrante.<br/>
 
 Elementos clave del proyecto:<br/>
 
