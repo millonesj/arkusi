@@ -30,7 +30,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="all"
                     >
-                        All
+                        Todo
                     </button>
                     <button
                         className={`${
