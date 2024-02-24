@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
     return (
         <>
             <Script
-                src={`"https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"`}
+                src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
                 strategy="afterInteractive"
             />
 
