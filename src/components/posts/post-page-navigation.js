@@ -18,7 +18,7 @@ function PostPageNavigation(props) {
                                 backgroundImage: `url('/images/posts/${`${prevPost?.slug}/${prevPost?.image}`}')`,
                             }}
                         >
-                            Prev
+                            Anterior
                         </a>
                     </Link>
                     <Link href={`/posts/${nextPost?.slug}`}>
@@ -32,7 +32,7 @@ function PostPageNavigation(props) {
                                 backgroundImage: `url('/images/posts/${`${nextPost?.slug}/${nextPost?.image}`}')`,
                             }}
                         >
-                            Next
+                            Siguiente
                         </a>
                     </Link>
                 </div>
