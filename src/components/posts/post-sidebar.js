@@ -30,31 +30,30 @@ function PostSidebar({ categories, tags }) {
                 </h2>
                 <ul className="post-list">
                     <li className="mb-[15px]">
-                        <Link href="/posts/magazine">
+                        <Link href="/posts/encuentra-la-serenidad-en-tu-hogar-descubre-el-estilo-japandi">
                             <a className="hover:underline">
-                                Layout & White-Spacing In Design For Magazine
+                                Encuentra la serenidad en tu hogar: Descubre el estilo Japandi
                             </a>
                         </Link>
                     </li>
                     <li className="mb-[15px]">
-                        <Link href="/posts/sketch-pillow">
+                        <Link href="/posts/cultiva-tu-propio-oasis-verde:-un-biohuerto-en-casa">
                             <a className="hover:underline">
-                                Look At The Sketch Pillow Unique By Scarlet
-                                Johanson
+                                Cultiva tu propio oasis verde: Un biohuerto en casa
                             </a>
                         </Link>
                     </li>
                     <li className="mb-[15px]">
-                        <Link href="/posts/quisque">
+                        <Link href="/posts/diseña-tu-hogar-cuida-el-planeta-claves-para-un-interiorismo-sostenible">
                             <a className="hover:underline">
-                                Visual Strategy Marketing
+                            Diseña tu hogar, cuida el planeta: claves para un interiorismo sostenible
                             </a>
                         </Link>
                     </li>
                     <li>
-                        <Link href="/posts/simple-design">
+                        <Link href="/posts/neuroarquitectura-diseñando-espacios-para-la-mente">
                             <a className="hover:underline">
-                                Summer Colorful Festival 2022
+                                Neuroarquitectura: Diseñando espacios para la mente
                             </a>
                         </Link>
                     </li>
